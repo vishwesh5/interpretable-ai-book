@@ -163,7 +163,7 @@ dependencies:
   - pandas=0.25.2
   - pandoc=2.2.3.2=0
   - pandocfilters=1.4.2=py37_1
-  - pango=1.42.4
+  - pango
   - parso=0.5.1=py_0
   - partd=1.0.0=py_0
   - path.py=12.0.1=py_0
@@ -256,7 +256,7 @@ dependencies:
   - sympy=1.4=py37_0
   - tbb=2019.8
   - tblib=1.5.0=py_0
-  - terminado=0.8.2=py37_0
+  - terminado=0.8.3
   - testpath=0.4.2=py37_0
   - tk=8.6.8
   - toolz=0.10.0=py_0
