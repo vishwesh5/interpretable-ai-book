@@ -57,7 +57,7 @@ dependencies:
   - ffmpeg=4.0
   - filelock=3.0.12=py_0
   - flask=1.1.1=py_0
-  - fontconfig=2.13.1
+  - fontconfig
   - freetype=2.9.1
   - fribidi=1.0.5
   - fsspec=0.5.2=py_0
