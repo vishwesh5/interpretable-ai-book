@@ -1,4 +1,5 @@
 # Interpretable AI - Building Explainable Machine Learning Systems
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vishwesh5/interpretable-ai-book/HEAD)
 
 This repository contains Jupyter notebooks implementing the code samples found in the book [Interpretable AI - Building Explainable Machine Learning Systems](https://www.manning.com/books/interpretable-ai) (Manning Publications). The book features far more content than you will find in these notebooks.
 
