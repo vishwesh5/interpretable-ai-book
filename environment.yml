@@ -3,6 +3,7 @@ channels:
   - pytorch
   - conda-forge
   - defaults
+  - pkgs/main
 dependencies:
   - _anaconda_depends=2019.03=py37_0
   - alabaster=0.7.12=py37_0
