@@ -2,6 +2,7 @@ name: interpretable-ai
 channels:
   - pytorch
   - conda-forge
+  - conda
   - defaults
 dependencies:
   - _anaconda_depends=2019.03=py37_0
