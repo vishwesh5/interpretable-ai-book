@@ -30,7 +30,7 @@ dependencies:
   - bottleneck=1.2.1
   - bzip2=1.0.8
   - ca-certificates=2020.1.1=0
-  - cairo=1.16.0
+  - cairo=1.14.12
   - certifi=2020.4.5.1=py37_0
   - cffi=1.13.1
   - chardet=3.0.4=py37_1003
@@ -98,7 +98,7 @@ dependencies:
   - json5=0.8.5=py_0
   - jsonschema=3.1.1=py37_0
   - jupyter=1.0.0=py37_7
-  - jupyter_client=5.3.4=py37_0
+  - jupyter_client=6.1.2
   - jupyter_console=6.0.0=py37_0
   - jupyter_core=4.6.1=py37_0
   - jupyterlab=1.1.4=pyhf63ae98_0
@@ -143,7 +143,7 @@ dependencies:
   - msgpack-python=0.6.1
   - multipledispatch=0.6.0=py37_0
   - nbconvert=5.6.1=py37_0
-  - nbformat=4.4.0=py37_0
+  - nbformat=5.1.0
   - ncurses=6.1
   - networkx=2.4=py_0
   - ninja=1.9.0
