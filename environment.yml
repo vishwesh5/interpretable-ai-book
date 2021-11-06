@@ -294,6 +294,7 @@ dependencies:
     - cymem==2.0.3
     - floyd-cli==0.11.17
     - future==0.18.2
+    - gensim==4.1.2
     - ipdb==0.13.3
     - lime==0.1.1.37
     - marshmallow==2.21.0
@@ -312,6 +313,7 @@ dependencies:
     - requests-toolbelt==0.9.1
     - scikit-plot==0.3.7
     - shap==0.35.0
+    - smart-open==5.2.1
     - spacy==2.2.4
     - srsly==1.0.2
     - svglib==1.0.0
